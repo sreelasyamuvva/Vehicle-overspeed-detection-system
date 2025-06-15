@@ -9,8 +9,9 @@ This project detects and logs overspeeding vehicles using video input and comput
 - Pandas, NumPy
 
 ## 📂 Folders
-- `data/`: Contains dataset link
-- `scripts/`: Python files for detection and logging
+- `input/`: Contains the input video recording
+- `models/`: Contains pre-trained models
+- `ouputs/`: Contains output excel files and detected overspeed vehicles along with their frames
 
 ## 📎 Dataset
 Check `data/dataset_link.txt` for the dataset.
