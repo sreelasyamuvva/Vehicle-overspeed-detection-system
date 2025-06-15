@@ -13,8 +13,8 @@ This project detects and logs overspeeding vehicles using video input and comput
 - `models/`: Contains pre-trained models
 - `ouputs/`: Contains output excel files and detected overspeed vehicles along with their frames
 
-## 📎 Dataset
-Check `data/dataset_link.txt` for the dataset.
+## 📎 Data
+Check `data/input` for the input data.
 
 ## 📈 Features
 - Speed estimation using frame-to-frame tracking
